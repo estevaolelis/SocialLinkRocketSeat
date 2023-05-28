@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+/* general */
+* {
+    background: #ffffff;
+}
+
+p { 
+    color: #BB99DD;
+    font-weight: bolder;
+    font-family: "Poppins";
+    font-size: 20px;
+    text-align: center;
+}
+
+/* image */
+.photoWomen {
+    display: block;
+    padding: 100px 0px 22px 0px;
+    margin: auto;
+}
+
+/* buttons link */
+.divLink {
+    margin: 33px;
+}
+
+a {
+    text-decoration: none;
+    color: #BB99DD;
+}
+
+
+.linkBtn {
+    display: block;
+    margin: auto 16px;
+    padding: 12px 141px;
+    margin: 16px auto;
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+    font-weight: bolder;
+    font-family: "Poppins";
+    font-size: 20px;
+}
+
+/* buttons SocialMedia */
+.divSocialMedia {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.divSocialMedia a {
+    margin: 30px 15px 30px 15px;
+}
